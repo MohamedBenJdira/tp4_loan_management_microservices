@@ -28,9 +28,9 @@ public class NotificationService {
             
             // Simulation envoi SMS
             sendSMS(event);
-        })
-        .doOnNext(v -> log.info("Notification complète"))
-        .doOnError(err -> log.error("Erreur notification", err));
+            
+            log.info("Notification complete");
+        });
     }
     
     private void sendEmail(LoanDecisionMadeEvent event) {
