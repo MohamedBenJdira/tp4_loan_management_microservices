@@ -1,4 +1,0 @@
-/workspace/common/src/main/java/com/bank/common/event/CommercialScoreCalculatedEvent.java
-/workspace/common/src/main/java/com/bank/common/event/DomainEvent.java
-/workspace/common/src/main/java/com/bank/common/event/RiskScoreCalculatedEvent.java
-/workspace/common/src/main/java/com/bank/common/event/LoanDecisionMadeEvent.java

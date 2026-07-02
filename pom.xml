@@ -24,10 +24,12 @@
 
     <modules>
         <module>common</module>
+        <module>api-gateway</module>
         <module>commercial-service</module>
         <module>risk-service</module>
         <module>credit-service</module>
         <module>notification-service</module>
+        <module>ocr-service</module>
     </modules>
 
     <dependencies>
