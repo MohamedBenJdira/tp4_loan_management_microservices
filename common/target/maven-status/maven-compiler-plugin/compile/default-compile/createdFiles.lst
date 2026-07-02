@@ -1,0 +1,4 @@
+com/bank/common/event/CommercialScoreCalculatedEvent.class
+com/bank/common/event/DomainEvent.class
+com/bank/common/event/LoanDecisionMadeEvent.class
+com/bank/common/event/RiskScoreCalculatedEvent.class

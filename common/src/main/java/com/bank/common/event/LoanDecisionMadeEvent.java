@@ -6,7 +6,6 @@ import lombok.NoArgsConstructor;
 
 @Data
 @NoArgsConstructor
-@AllArgsConstructor
 public class LoanDecisionMadeEvent extends DomainEvent {
     private String loanApplicationId;
     private String decision;
